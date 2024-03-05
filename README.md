@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/youssefdaoud133">
-    <img src="http://i.imgur.com/c7GmAJf.png" alt="Hello, world" width="100%">
-  </a>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Youssef Daoud</h1>
 <h3 align="center">A passionate Full-Stack developer from Egypt</h3>
