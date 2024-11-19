@@ -1,10 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Youssef Daoud</h1>
-<h3 align="center">A passionate Back-End developer from Egypt</h3>
+<h3 align="center">A passionate Full-Stack developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
-
-- 🔭 I’m currently working on [Nemoword](https://github.com/youssefdaoud133/Nemoword-Frontend-Nextjs)
 
 - 🌱 I’m currently learning **advanced backend technologies and rust programming language**
 
